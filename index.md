@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Georgia Tech
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Human Centered Computing:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
